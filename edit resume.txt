@@ -1,0 +1,35 @@
+•	Worked on various DevOps tools to provide CI/CD and End to End Automation
+•	Hands On experience in building and monitoring software projects continuously with a CI tool like maven and Jenkins.  Used Maven for building Java/J2EE Applications
+•	Experience in using GIT Version Controls. Creation and merging of the branches
+•	Used Chef for Configuration Management tool to configuring and updating existing in-frastructure. Knowledge on Ansible as well
+•	Creating recipes, cookbooks, data bags, bootstrapping nodes, using supermarket 
+•	Having good hands on experience on EC2, VPC and S3
+•	Hands on experience in creation of Reusable templates using CloudFormation
+•	Hands on experience on taking Backups using S3
+•	Hands on experience in Setting up Billing Alerts and having good idea on billing optimization
+•	Hands on experience in Setting up Multi AZ RDS instances for High Availability
+•	Hands on experience in Creating of public & private subnets using VPC
+•	Hands on experience in delivering container based deployments using Docker
+•	Writing Docker files and building images from Docker files.
+•	Creating virtual environment using vagrant
+•	Monitoring application logs with help of ELK stack
+•	Monitoring health of services and servers with help of NAGIOS
+•	Good Experience with application and infrastructure management and monitoring tools
+•	Hands on knowledge in creation of Users, Groups,Roles and policies in IAM
+•	Extensive working knowledge on IAM for Identity and Access Management for AWS using Multifactor authentication users
+•	Extensive working knowledge on implementation of VPN 
+
+
+
+1. Worked on various DevOps tools to provide CI/CD and End to End Automation
+2. Hands On experience in building and monitoring software projects continuously with a CI tool like maven and Jenkins.  Used Maven for building Java/J2EE Applications
+3. Experience in using GIT Version Controls. Creation and merging of the branches
+4. Having good hands on experience on EC2, VPC and S3
+5. Hands on experience on taking Backups using S3
+6. Writing Docker files and building images from Docker files.
+7. Creating virtual environment using vagrant
+8. Good Experience with application and infrastructure management and monitoring tools
+9. Hands on knowledge in creation of Users, Groups,Roles and policies in IAM
+
+To be a part of an organization which enhances my abilities and would like to justify my role so that my presence plays a prominent role towards the organizational growth.
+ 
